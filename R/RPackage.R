@@ -2,7 +2,6 @@
 #' @description
 #' The `RPackage` function calls the xkcd JSON API and returns
 #' metadata about the comic in the form of a list
-#'
 #' @importFrom jsonlite read_json
 #' @export
 RPackage <- function(number) {
