@@ -17,7 +17,7 @@
 #' * title: A scalar character vector
 #' * day: A scalar character vector
 #' @examples
-#' dino_time<- xkcd(15)
+#' dino_time <- xkcd(15)
 #' str(dino_time)
 #' @export
 RPackage <- function(number) {
@@ -38,7 +38,7 @@ RPackage <- function(number) {
 #' @importFrom grid grid.raster
 #' @returns A rastergrob grob. See"Details" section of the [grid::grob()] for more information.
 #' @examples
-#' dino_time<- xkcd(15)
+#' dino_time <- xkcd(15)
 #' str(dino_time)
 #' @export
  draw_comic <- function(x) {

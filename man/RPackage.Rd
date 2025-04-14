@@ -30,6 +30,6 @@ The \code{RPackage} function calls the xkcd JSON API and returns
 metadata about the comic in the form of a list
 }
 \examples{
-dino_time<- xkcd(15)
+dino_time <- xkcd(15)
 str(dino_time)
 }

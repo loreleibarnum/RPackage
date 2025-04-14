@@ -16,6 +16,6 @@ A rastergrob grob. See"Details" section of the \code{\link[grid:grid.grob]{grid:
 'draw_comic()' display and xkcd comic strip  as aplot in a graphics device (e.g., the RStudio window).
 }
 \examples{
-dino_time<- xkcd(15)
+dino_time <- xkcd(15)
 str(dino_time)
 }
