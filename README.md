@@ -4,6 +4,10 @@
 # RPackage
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/loreleibarnum/RPackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/loreleibarnum/RPackage/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/loreleibarnum/RPackage/graph/badge.svg)](https://app.codecov.io/gh/loreleibarnum/RPackage)
 <!-- badges: end -->
 
 The `xkcd` package…blahbla
